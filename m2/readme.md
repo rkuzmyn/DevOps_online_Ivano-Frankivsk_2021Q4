@@ -31,6 +31,7 @@ A: There are 2 types of hypervisors:
 Part 2. Work with Virtual box
 
 I installed Virtual box on Ubuntu Desktop (main host) and downloaded latest stable version UbuntuServer (20.04). Then created VM1 and installed Ubuntu
+
 ![](images/1.4.png)
 ![](images/1.6.png) 
 ![](images/1.7.png)
