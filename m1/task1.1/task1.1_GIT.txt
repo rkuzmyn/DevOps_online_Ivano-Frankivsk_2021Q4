@@ -1,0 +1,18 @@
+de25f00 HEAD@{0}: commit: add image
+f661a1e HEAD@{1}: merge develop: Fast-forward
+fefa70e HEAD@{2}: checkout: moving from develop to main
+f661a1e HEAD@{3}: commit (merge): fix index.html
+f1e44cc HEAD@{4}: merge images: Fast-forward
+b53c70d HEAD@{5}: checkout: moving from styles to develop
+d6657e5 HEAD@{6}: commit: add styles to index.html
+5a619f8 HEAD@{7}: commit: add forder styles
+b53c70d HEAD@{8}: checkout: moving from develop to styles
+b53c70d HEAD@{9}: checkout: moving from images to develop
+f1e44cc HEAD@{10}: checkout: moving from develop to images
+b53c70d HEAD@{11}: checkout: moving from images to develop
+f1e44cc HEAD@{12}: commit: edit index.html
+aff62d2 HEAD@{13}: commit: add image folder
+b53c70d HEAD@{14}: checkout: moving from develop to images
+b53c70d HEAD@{15}: commit: touch index.html
+fefa70e HEAD@{16}: checkout: moving from main to develop
+fefa70e HEAD@{17}: commit (initial): touch readme.txt
