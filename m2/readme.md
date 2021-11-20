@@ -1,3 +1,4 @@
+Part 1. 
 
 Q: What are the most popular hypervisors for infrastructure virtualization?
 
@@ -26,3 +27,18 @@ A: There are 2 types of hypervisors:
 	VMware Player
 	Microsoft Hyper-V
 	Windows Virtual PC
+
+Part 2. Work with Virtual box
+
+I installed Virtual box on Ubuntu Desktop (main host) and downloaded latest stable version UbuntuServer (20.04). Then created VM1 and installed Ubuntu
+![](images/1.4.png)
+![](images/1.6.png) 
+![](images/1.7.png)
+![](images/1.8.png)
+![](images/1.9.png)
+![](images/1.9-1.png)
+![](images/2.1.png)
+![](images/2.2.png)
+![](images/2.3.png) 
+
+
