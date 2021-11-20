@@ -41,4 +41,17 @@ I installed Virtual box on Ubuntu Desktop (main host) and downloaded latest stab
 ![](images/2.2.png)
 ![](images/2.3.png) 
 
+| Connection                | Ping |   |
+|---------------------------|------|---|
+| VM1 <\-> VM2 \(Bridged\)  | \+   |   |
+| Host<\->VMs \(Bridged\)   | \+   |   |
+| Host to VM\(NAT\)         | \-   |   |
+| VMs\(NAT\) to internet    | \+   |   |
+| VMs\(Bridge\) to internet | \+   |   |
+| VMs\(Bridge\) to host     | \+   |   |
+| VMs\(NAT\) to host        | \+   |   |
+
+![](images/2.4Bridge.png)
+![](images/3.2.png)
+
 
