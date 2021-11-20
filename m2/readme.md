@@ -51,7 +51,9 @@ I installed Virtual box on Ubuntu Desktop (main host) and downloaded latest stab
 | VMs\(Bridge\) to host     | \+   |   |
 | VMs\(NAT\) to host        | \+   |   |
 
+
+Then work with CLI through VBoxManage:
+
 ![](images/2.4Bridge.png)
 ![](images/3.2.png)
-
 
