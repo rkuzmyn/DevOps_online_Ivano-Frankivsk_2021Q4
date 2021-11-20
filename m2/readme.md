@@ -42,6 +42,9 @@ I installed Virtual box on Ubuntu Desktop (main host) and downloaded latest stab
 ![](images/2.2.png)
 ![](images/2.3.png) 
 
+
+![](images/2.4Bridge.png)
+
 | Connection                | Ping |   |
 |---------------------------|------|---|
 | VM1 <\-> VM2 \(Bridged\)  | \+   |   |
@@ -55,6 +58,5 @@ I installed Virtual box on Ubuntu Desktop (main host) and downloaded latest stab
 
 Then work with CLI through VBoxManage:
 
-![](images/2.4Bridge.png)
 ![](images/3.2.png)
 
