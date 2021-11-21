@@ -70,9 +70,10 @@ PART 3. WORK WITH VAGRANT
 ![](images/3.6.png)
 ![](images/3.7.png)
 
-Vagrant file 
-
-# -*- mode: ruby -*-
+____
+### Vagrant file 
+```
+### # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
 Vagrant.configure(2) do |config|
@@ -115,6 +116,8 @@ Vagrant.configure(2) do |config|
  end
 
 end
+
+```
 
 
 ![](images/3.9.png)
