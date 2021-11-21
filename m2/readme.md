@@ -70,7 +70,6 @@ Then work with CLI through VBoxManage:
 ![](images/3.6.png)
 ![](images/3.7.png)
 
-____
 ### Vagrant file 
 ```
 ### # -*- mode: ruby -*-
