@@ -1,4 +1,3 @@
-____
 ### Part 1.
 
 Q: What are the most popular hypervisors for infrastructure virtualization?
