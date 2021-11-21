@@ -60,3 +60,61 @@ Then work with CLI through VBoxManage:
 
 ![](images/3.2.png)
 
+
+PART 3. WORK WITH VAGRANT
+
+![](images/3.1.png)
+![](images/3.3.png)
+![](images/3.4.png)
+![](images/3.5.png)
+![](images/3.6.png)
+![](images/3.7.png)
+
+Vagrant file 
+
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure(2) do |config|
+  config.vm.box = "ubuntu/trusty64"
+  config.vm.box_check_update = false
+
+
+  config.vm.define "dev" do |dev|
+      dev.vm.network  "public_network", ip: "192.168.1.160"
+      dev.vm.hostname = "dev"  
+      dev.vm.provider "virtualbox" do |vb|
+         vb.memory = "4096"
+      end
+  end
+
+  
+ config.vm.define "db" do |db|
+     db.vm.network "public_network", ip: "192.168.1.161"
+     db.vm.hostname = "db"  
+     db.vm.provider "virtualbox" do |vb|
+         vb.memory = "1024"
+     end
+ end
+
+
+ config.vm.define "ci" do |ci|
+     ci.vm.network "public_network", ip: "192.168.1.162"
+     ci.vm.hostname = "ci"  
+     ci.vm.provider "virtualbox" do |vb|
+         vb.memory = "2048"
+     end
+ end
+
+ config.vm.define "lamp" do |lamp|
+     lamp.vm.network "public_network", ip: "192.168.1.163"
+     lamp.vm.hostname = "lamp"  
+     lamp.vm.provider "virtualbox" do |vb|
+         vb.memory = "512"
+     end
+ end
+
+end
+
+
+![](images/3.9.png)
