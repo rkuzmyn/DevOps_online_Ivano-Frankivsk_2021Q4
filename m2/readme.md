@@ -28,7 +28,7 @@ A: There are 2 types of hypervisors:
 	Microsoft Hyper-V
 	Windows Virtual PC
 
-Part 2. Work with Virtual box
+### Part 2. Work with Virtual box
 
 I installed Virtual box on Ubuntu Desktop (main host) and downloaded latest stable version UbuntuServer (20.04). Then created VM1 and installed Ubuntu
 
@@ -61,7 +61,7 @@ Then work with CLI through VBoxManage:
 ![](images/3.2.png)
 
 
-PART 3. WORK WITH VAGRANT
+### PART 3. WORK WITH VAGRANT
 
 ![](images/3.1.png)
 ![](images/3.3.png)
