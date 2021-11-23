@@ -45,3 +45,7 @@
 
 ### 10. Launch and configure a WordPress instancewith Amazon Lightsaillink
 ![](images/10.png)
+![](images/10.1.png)
+![](images/10.2.png)
+
+### 11. Review the 10-minute exampleStore and Retrieve a File. Repeat, creating your own repository.
