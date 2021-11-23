@@ -22,3 +22,8 @@
 
 ![](images/5.1.png)
 ![](images/5.2.png)
+
+### 6. Create a snapshot of your instance to keep as a backup.
+
+![](images/6.1.png)
+![](images/6.2.png)
