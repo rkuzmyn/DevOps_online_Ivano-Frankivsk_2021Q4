@@ -27,3 +27,15 @@
 
 ![](images/6.1.png)
 ![](images/6.2.png)
+
+### 7. Create and attach a Disk_D (EBS)to your instance to add more storage space.Create and save some file on Disk_D
+
+![](images/7.1.png)
+![](images/7.2.png)
+![](images/7.3.png)
+![](images/7.4.png)
+![](images/7.5.png)
+![](images/7.6.png)
+![](images/7.7.png)
+![](images/7.8.png)
+![](images/7.9.png)
