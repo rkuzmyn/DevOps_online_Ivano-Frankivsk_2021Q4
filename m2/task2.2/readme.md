@@ -9,5 +9,7 @@
 ### 3. Find the hands-on tutorialsand AWS Well-ArchitectedLabsfor your AWS needs. Explore list of step-by-step tutorials for deferent category. Use, repeat and have fun))
 
 ![](images/3.1.png)
-![](images/3.2png)
+
+![](images/3.2.png)
+
 
