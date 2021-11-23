@@ -1,4 +1,4 @@
 ### Registered with AWS
 
-![](images/1.png)
+![](images/1.PNG)
 
