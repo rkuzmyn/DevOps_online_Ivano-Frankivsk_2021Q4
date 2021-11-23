@@ -12,4 +12,13 @@
 
 ![](images/3.2.png)
 
+### 4. Review the 10-minute exampleLaunch a Linux Virtual Machinewith Amazon Lightsail. Repeat, create your own VM in the AWS cloud and connect to it. 
 
+![](images/4.1.png)
+![](images/4.2.png)
+![](images/4.3.png)
+
+### 5. Launch anotherLinux Virtual MachinewithoutAmazon Lightsail.It is recommended to use the t2or t3.micro instance and the CentOS operating system.
+
+![](images/5.1.png)
+![](images/5.2.png)
