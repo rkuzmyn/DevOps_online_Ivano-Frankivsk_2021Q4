@@ -49,3 +49,9 @@
 ![](images/10.2.png)
 
 ### 11. Review the 10-minute exampleStore and Retrieve a File. Repeat, creating your own repository.
+![](images/11.1.png)
+![](images/11.2.png)
+![](images/11.3.png)
+![](images/11.4.png)
+![](images/11.5.png)
+![](images/11.6.png)
