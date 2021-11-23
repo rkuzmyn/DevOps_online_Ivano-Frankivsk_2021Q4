@@ -42,3 +42,6 @@
 ![](images/9.2.png)
 ![](images/9.3.png)
 ![](images/9.4.png)
+
+### 10. Launch and configure a WordPress instancewith Amazon Lightsaillink
+![](images/10.png)
