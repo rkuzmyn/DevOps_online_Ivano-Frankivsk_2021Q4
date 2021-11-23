@@ -39,3 +39,8 @@
 ![](images/7.7.png)
 ![](images/7.8.png)
 ![](images/7.9.png)
+
+### 8. Launch the third instance from backup.
+![](images/8.1.png)
+![](images/8.2.png)
+![](images/8.3.png)
