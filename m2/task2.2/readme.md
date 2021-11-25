@@ -57,3 +57,9 @@
 ![](images/11.6.png)
 
 ### 12. Review the 10-minute exampleBatch upload files to the cloudto Amazon S3 using the AWS CLI.Create a user AWS IAM, configure CLI AWS and upload any files to S3. 
+![](images/12.1.png)
+![](images/12.2.png)
+![](images/12.3.png)
+![](images/12.4.png)
+![](images/12.5.png)
+![](images/12.6.png)
