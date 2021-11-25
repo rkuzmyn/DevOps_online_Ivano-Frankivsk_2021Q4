@@ -63,3 +63,5 @@
 ![](images/12.4.png)
 ![](images/12.5.png)
 ![](images/12.6.png)
+
+### 13. Review the 10-minute example.Explore the possibilities of creating your own domain and domain name for your site
