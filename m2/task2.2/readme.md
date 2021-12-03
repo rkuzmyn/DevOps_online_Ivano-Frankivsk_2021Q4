@@ -73,4 +73,4 @@
 ![](images/15.1.png)
 
 
-My website - [roman-kuzmyn.ddns.net/](https://roman-kuzmyn.ddns.net/ "roman-kuzmyn.ddns.net!").
+My website - [roman-kuzmyn.ddns.net](https://roman-kuzmyn.ddns.net/ "roman-kuzmyn.ddns.net!").
