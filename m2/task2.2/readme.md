@@ -70,7 +70,7 @@
 ![](images/13.3.png)
 
 ### 15.Create a static website on Amazon S3, publicly available(link1or link2-using a custom domain registered withRoute 53).Post on the page your own photo, the name of the educational program(EPAM DevOps online Autumn2021),thelist of AWS services with which the student worked within the educational program or earlierand the full list with links of completed labs (based on tutorialsor qwiklabs).Provide the link to the websitein your reportand СV.
-![](images/13.3.png)
+![](images/15.1.png)
 
 
 My website - [roman-kuzmyn.ddns.net/](https://roman-kuzmyn.ddns.net/ "roman-kuzmyn.ddns.net!").
